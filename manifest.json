@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "YouTube Auto Transcript",
   "version": "1.0",
-  "description": "Apre automaticamente la trascrizione su YouTube",
+  "description": "Automatically opens the transcript panel on YouTube videos",
   "permissions": ["scripting"],
   "host_permissions": ["https://www.youtube.com/*"],
   "content_scripts": [
